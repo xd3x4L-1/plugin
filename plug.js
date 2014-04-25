@@ -42,6 +42,8 @@ $(".p2").animate({marginTop:0});;
 $(".p3 img").height(g1-16);
 bildspel(1);
 
+
+
 };
 
 })(jQuery);
